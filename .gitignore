@@ -1,0 +1,18 @@
+# Build output
+target/
+out/
+*.class
+
+# IDE
+.idea/workspace.xml
+.idea/shelf/
+*.iws
+
+# OS junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# JVM crash logs
+hs_err_pid*
+*.jfr
